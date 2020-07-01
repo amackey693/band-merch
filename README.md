@@ -6,7 +6,7 @@
 
 _This application serves as an introduction to React with create-react-app, components, JSX, and props while building a static site. The band merch site hosts an inventory of merchandise related to the band, tshirts, cd's etc and allows a user to look at the inventory. Buying an item decreases the inventory for any given item. Users may also add items to the inventory.
 
-![BandMerch](public/BandMerch.jpg)
+![BandMerch](./public/BandMerch.jpg)
 
 ### Instructions for use:
 
@@ -38,7 +38,6 @@ No bugs have been identified at the time of this update.
 
 ### Support and Contact Information
 
-Please contact me with any suggestions or questions at jhvozdovich@gmail.com. Thank you for your input!  
 _Have a bug or an issue with this application? [Open a new issue](https://github.com/amackey693/band-merch/issues) here on GitHub._
 
 ### Technologies Used
@@ -56,7 +55,7 @@ _Have a bug or an issue with this application? [Open a new issue](https://github
 | **User can view t-shirt list** | User Input:"View T-shirts" | Output: “List of T-shirts" |
 | **User can view t-shirt details** | User Input:"Click T-Shrit" | Output: “Shirt Name, Shirt Description, Shirt Quantity Currently In Stock, Two buttons to 'buy' & 'restock'" |
 | **User can view cd list** | User Input:"View cd's" | Output: “album1, album2..." |
-| **User can view cd  details** | User Input:"Click Album 1" | Output: tracklist, price, currently in stock, Two buttons, to 'buy' and 'restock'" |
+| **User can view cd  details** | User Input:"Click Album 1" | Output: tracklist, price, currently in stock, Two buttons, to 'buy' and 'restock' |
 #### License
 
 This software is licensed under the MIT license.
