@@ -5,8 +5,10 @@ import NavControl from "./NavControl";
 function App(){
   return(
     <React.Fragment>
-      <Header/>
-      <NavControl/>
+      <div className="box">
+        <Header/>
+        <NavControl/>
+      </div>
     </React.Fragment>
   );
 }

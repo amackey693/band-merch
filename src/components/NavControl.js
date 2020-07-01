@@ -59,8 +59,10 @@ class NavControl extends React.Component {
     return (
       <React.Fragment>
         {currentViewVisible}
-        <button onClick={button1}>{button1Text}</button>
-        <button onClick={button2}>{button2Text}</button>
+        <div className="button-wrapper">
+          <button onClick={button1}>{button1Text}</button>
+          <button onClick={button2}>{button2Text}</button>
+        </div>
       </React.Fragment>
     );
   }
